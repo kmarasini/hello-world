@@ -1,3 +1,3 @@
 # hello-world
 This is first git repository
-I like git for source control.
+I like gitHub for source control.
